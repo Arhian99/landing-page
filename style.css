@@ -1,0 +1,22 @@
+
+
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100vh;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    display: flex;
+    background-color: #1f2937;
+}
+
+.header h4 {
+    color: #f9faf8;
+    font-size: 24px;
+}
