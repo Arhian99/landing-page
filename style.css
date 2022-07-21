@@ -97,6 +97,7 @@ button {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 80px 150px 80px 150px;
 }
 
 .objects-container {
@@ -111,7 +112,6 @@ button {
     width: 150px;
     padding: 30px 0px 0px 0px;
     margin: 0px 30px 10px 30px;
-
 }
 
 
@@ -131,4 +131,33 @@ button {
     font-size: 36px;
     font-weight: bolder;
     color: #1f2937;
+}
+
+.sect-3 {
+   display: flex;
+   background-color: #e5e7eb;
+}
+
+.quote-container {
+    display: flex;
+    background-color: #e5e7eb;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 200px 100px 200px;
+}
+
+.sect-3 cite {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    margin-right: auto;
+
+}
+
+.sect-3 p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: auto;
 }
